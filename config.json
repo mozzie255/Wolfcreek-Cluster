@@ -1,0 +1,53 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.postimg.cc/CMPFvd7Y/wolfcreek-logo-3.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Server Info",
+				"imageurl": "https://i.postimg.cc/XvFhgXY0/Info-Panel.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Rules",
+				"imageurl": "https://i.postimg.cc/wTfSqSrz/image.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/D2n2q6xTkd"
+			},
+			{
+				"text": "Ark Wiki",
+				"url": "https://wikily.gg/ark-survival-ascended/"
+			}
+		],
+		"version": 2
+	}
+}
