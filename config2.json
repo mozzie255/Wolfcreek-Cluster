@@ -1,0 +1,106 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.postimg.cc/CMPFvd7Y/wolfcreek-logo-3.png",
+      "disableicontext": true,
+      "iconposition": 3,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Server Info",
+        "imageurl": "https://i.postimg.cc/XvFhgXY0/Info-Panel.png",
+        "content": [
+          {
+            "title": "Wolfcreek Cluster",
+            "text": "Forge Your Pack.\n\n10x Trio PvP\nCrossplay Enabled\nCustom Loot Drops\n30x Breeding\nLevel 150 Wild Dinosaurs"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Server Rules",
+        "imageurl": "https://i.postimg.cc/wTfSqSrz/image.png",
+        "content": [
+          {
+            "title": "Server Rules",
+            "text": "Please read the full rules in Discord before playing.\n\nRespect other players and staff.\nNo cheating, exploiting or meshing.\nTribe limit: 3 players.\nReport rule breaches through Discord tickets."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Loot Drops",
+        "imageurl": "https://i.postimg.cc/XvFhgXY0/Info-Panel.png",
+        "content": [
+          {
+            "title": "<TextStyle.White>White Drops</>",
+            "text": "Artifacts, creature trophies and progression items."
+          },
+          {
+            "title": "<TextStyle.Green>Green Drops</>",
+            "text": "Kibble, Sweet Vegetable Cake, Crossbows, Longneck Rifles, tranquiliser ammunition and taming supplies."
+          },
+          {
+            "title": "<TextStyle.Blue>Blue Drops</>",
+            "text": "Chibis, medical consumables, metal tools, grappling hooks, armour, pistols and Pump-Action Shotguns."
+          },
+          {
+            "title": "<TextStyle.Violet>Purple Drops</>",
+            "text": "Early-game, mid-game and platform saddle loot. Bonus drops may contain improved saddle blueprints."
+          },
+          {
+            "title": "<TextStyle.Yellow>Yellow Drops</>",
+            "text": "Ghillie, Desert Cloth, Flak, Riot, Fur and SCUBA equipment, along with advanced firearms."
+          },
+          {
+            "title": "<TextStyle.Red>Red Drops</>",
+            "text": "Advanced armour, firearms, tools and premium late-game saddle blueprints. Bonus drops may contain Cursed Gear."
+          },
+          {
+            "title": "<TextStyle.Orange>Cave Drops</>",
+            "text": "High-quality armour, advanced weapons, tools and late-game saddle blueprints."
+          },
+          {
+            "title": "<TextStyle.Yellow>Desert Crates</>",
+            "text": "Premium armour, firearms, tools, Cursed Gear and late-game saddle blueprints."
+          },
+          {
+            "title": "<TextStyle.Blue>Beaver Dams</>",
+            "text": "Cementing Paste, Wood, Metal Ingots, Polymer, Electronics, Black Pearls, Crystal and other valuable resources."
+          },
+          {
+            "title": "<TextStyle.Red>Alpha Rewards</>",
+            "text": "Advanced armour, firearms, tools and Element."
+          },
+          {
+            "title": "<TextStyle.Violet>Boss Rewards</>",
+            "text": "Element, Gaia Potions, advanced equipment, Cursed Gear, late-game saddles and Tek rewards."
+          },
+          {
+            "title": "<TextStyle.Orange>Event Drops</>",
+            "text": "Artifacts, trophies, Element, Gaia Potions, premium equipment, Cursed Gear and late-game saddle rewards."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/D2n2q6xTkd"
+      },
+      {
+        "text": "Ark Wiki",
+        "url": "https://wikily.gg/ark-survival-ascended/"
+      }
+    ],
+    "version": 2
+  }
+}
